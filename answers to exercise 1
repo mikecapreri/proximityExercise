@@ -1,0 +1,12 @@
+Exercise 1
+It makes the Divs skinnier
+They both float all the way right but are under each other
+The same thing happens but to the left
+Everything resizes smaller and eventually the Divs end up next to each other
+There is a large space in between the Divs
+The divs are both to the left and are very long stretching across the whole screen one underneath the other
+
+The Divs now adjust so that they continue to stay within their percentage of the browser
+
+They were all set to 30% and fit evenly
+The first Div is set to 25% and the following are set to 35%. Div1 is longer and skinnier than the other 2

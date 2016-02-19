@@ -1,1 +1,28 @@
+#Head {
+  background-color: #52637B;
+}
 
+nav {
+  width: 20%;
+  padding: 10px;
+  float: left;
+}
+
+#mainContent {
+  width: 40%;
+  padding: 10px;
+  float: left;
+  border-left: solid 5px #52637B;
+  border-right: solid 5px #52637B;
+}
+
+#rightSidebar {
+  width: 20%;
+  padding: 10px;
+  float: left;
+
+}
+
+#image1 {
+  float: right;
+}
