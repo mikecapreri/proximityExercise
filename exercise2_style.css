@@ -1,15 +1,24 @@
 #Head {
   background-color: #52637B;
+  color: white;
+  font-family: Lora;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 2em;
+  border-bottom: solid 3px white;
 }
 
 nav {
-  width: 20%;
+  width: 19%;
   padding: 10px;
   float: left;
 }
 
 #mainContent {
-  width: 40%;
+  width: 52%;
   padding: 10px;
   float: left;
   border-left: solid 5px #52637B;
@@ -17,7 +26,7 @@ nav {
 }
 
 #rightSidebar {
-  width: 20%;
+  width: 19%;
   padding: 10px;
   float: left;
 
